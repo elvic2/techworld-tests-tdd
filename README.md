@@ -30,3 +30,21 @@ Todas las pruebas han sido ejecutadas con éxito, validando el correcto funciona
 ```bash
 git clone https://github.com/elvic2/techworld-tests-tdd.git
 cd techworld-tests-tdd
+```
+
+### 2️⃣ **Crear y Activar el Entorno Virtual**
+```bash
+python3 -m venv venv
+source venv/bin/activate   # En macOS/Linux
+venv\Scripts\activate      # En Windows
+```
+### 3️⃣ **Instalar Dependencias**
+```bash
+pip install -r requirements.txt
+```
+### 4️⃣ **Ejecutar las Pruebas**
+```bash
+pytest -v
+```
+📌 Contacto
+[victorh.vargasf@autonoma.edu.co]

@@ -1,0 +1,10 @@
+{
+    "PED12345": {
+        "estado": "Enviado",
+        "fecha_entrega": "2024-06-15"
+    },
+    "PED67890": {
+        "estado": "En tr\u00e1nsito",
+        "fecha_entrega": "2024-06-20"
+    }
+}

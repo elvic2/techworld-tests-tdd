@@ -1,17 +1,1 @@
-{
-    "PROD123": {
-        "nombre": "Laptop Gamer",
-        "precio": 1500,
-        "cantidad": 1
-    },
-    "PROD456": {
-        "nombre": "Monitor 4K",
-        "precio": 500,
-        "cantidad": 2
-    },
-    "PROD789": {
-        "nombre": "Teclado Mec\u00e1nico",
-        "precio": 100,
-        "cantidad": 2
-    }
-}
+{}

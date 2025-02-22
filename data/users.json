@@ -1,18 +1,1 @@
-{
-    "usuario_incompleto@example.com": {
-        "password": ""
-    },
-    "usuario_verificado@example.com": {
-        "password": "password123",
-        "verificado": true
-    },
-    "usuario_bloqueado@example.com": {
-        "password": "password123",
-        "intentos_fallidos": 3,
-        "bloqueado": true
-    },
-    "nuevo_usuario@example.com": {
-        "password": "password123",
-        "verificado": false
-    }
-}
+{}
